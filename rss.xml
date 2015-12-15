@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BryonBlack]]></title>
         <description><![CDATA[BryonBlack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bryonblack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 16:39:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 16:51:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bryonblack/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twilight Engagement Portraits]]></title>
+            <description><![CDATA[<article><h1>Twilight Engagement Portraits</h1><p>Shooting engagement portraits during sunset/twilight is awesome!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec7cf454fe679937de47b57f3242fbf690c0f6d3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bryonblack/twilight-engagement-portraits/index.html</link>
+            <guid isPermaLink="false">772ba1c8-7c27-4c99-8fb8-054b8877c893</guid>
+            <pubDate>Tue, 15 Dec 2015 16:51:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/bryonblack/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">d6828ff7-f032-45d8-8b7a-69d507e52151</guid>
             <pubDate>Tue, 15 Dec 2015 16:39:03 GMT</pubDate>
         </item>
