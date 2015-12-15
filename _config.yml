@@ -1,7 +1,7 @@
 name: BryonBlack
 favicon: null
-layout_spectrum: 0.6550033779349178
-typography_spectrum: 0.8418868225999177
+layout_spectrum: 0.26601
+typography_spectrum: 0.25194
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.731037134071812
+    - '#0d0d0d'
+    - '#51cddf'
+    - '#ffffff'
+    - '#bfbfbf'
+    - '#357c88'
+  brandStrength: 0.6875
   lightness: 0.4066871979739517
   saturation: 0.41715332004241645
-  rhythmicContrast: 0.599874169100076
+  rhythmicContrast: 0.5
 purpose: []
