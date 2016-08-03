@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Bride + Groom on film
-datePublished: '2016-08-03T21:26:30.938Z'
-dateModified: '2016-08-03T21:26:09.414Z'
+datePublished: '2016-08-03T21:26:50.883Z'
+dateModified: '2016-08-03T21:26:42.388Z'
 author:
   - name: Bryon Black
     url: www.bryonblack.net
