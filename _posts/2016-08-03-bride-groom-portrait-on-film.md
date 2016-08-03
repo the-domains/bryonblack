@@ -7,21 +7,21 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Bride + Groom on film
-datePublished: '2016-08-03T21:23:02.551Z'
-dateModified: '2016-08-03T21:22:56.377Z'
+datePublished: '2016-08-03T21:25:58.622Z'
+dateModified: '2016-08-03T21:25:54.228Z'
 author:
   - name: Bryon Black
     url: www.bryonblack.net
 title: Bride + Groom portrait on film
 via: {}
+sourcePath: _posts/2016-08-03-bride-groom-portrait-on-film.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-03-bride-groom-portrait-on-film.md
 _context: 'http://schema.org'
 _type: Article
 
